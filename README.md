@@ -3,6 +3,7 @@
 ## Стек:
 
 ![react](https://img.shields.io/badge/reactJS-555?style=for-the-badge&logo=react)
+![typescript](https://img.shields.io/badge/typescript-555?style=for-the-badge&logo=typescript)
 ![redux](https://img.shields.io/badge/redux-555?style=for-the-badge&logo=redux&logoColor=7649bb)
 ![nodejs](https://img.shields.io/badge/nodejs-555?style=for-the-badge&logo=node.js)
 ![git](https://img.shields.io/badge/git-555?style=for-the-badge&logo=git)
@@ -16,8 +17,6 @@
 - GeekBrains в 2020 году (HTML/CSS)
 - Glo Academy в 2020 году (web start)
 
-### Опыт работы:
-- В настоящее время работаю над учебным [проектом](https://github.com/dymov-ant/project)
 
 ## Связь со мной:
 
